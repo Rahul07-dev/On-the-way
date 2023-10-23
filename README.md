@@ -29,11 +29,6 @@ This is a student project.
 - see the info of all registered students.
 - see and delete the feedbacks of students and counsellors.
 
-## Authors
-- [Dhruv Rishishwar](https://github.com/Sneakyhydra)
-- [Anshul Shukla](https://github.com/Anshul-Shukla22)
-- [Sparsh Kumar](https://github.com/sparshkr24)
-
 ## Tech Stack
 
 **Client:** Html, Css, Js, React
